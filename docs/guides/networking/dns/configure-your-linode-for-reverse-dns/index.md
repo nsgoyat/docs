@@ -65,7 +65,7 @@ While single IPv6 addresses will be configured following the same process as IPv
 
 2. Enter the IPv6 address you'd like to use, your fully qualified domain name, and click on the `save` button.
 
-    ![rDNS Pool Edit](rdns-pool-edit.png"rDNS")
+    ![rDNS Pool Edit](rdns-pool-edit.png "rDNS")
 
 3. If you want to add more IPv6 addresses from your pool, you can repeat the process. Once more than one rDNS entry is created for a single pool, the **Reverse DNS** column of the IPv6 table will show you exactly how many IP addresses have been given rDNS entries from your pool.
 
